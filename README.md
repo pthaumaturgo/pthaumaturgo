@@ -1,6 +1,11 @@
 <h1 align="center">Hi 👋, I'm Paula Thaumaturgo</h1>
 <h3 align="center">Futura Analista de Qualidade de Software (QA)</h3>
 
+- 🌱 Atualmente estou estudando **Lógica de programação e Testes de Software**
+
+- 📫 Como me contatar **pthaumaturgo30@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/paula-thaumaturgo-fernandes-de-souza-71454a18b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/paula-thaumaturgo-fernandes-de-souza-71454a18b/" height="30" width="40" /></a>
 </p>
