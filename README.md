@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Paula Thaumaturgo</h1>
 <h3 align="center">Futura Analista de Qualidade de Software (QA)</h3>
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
